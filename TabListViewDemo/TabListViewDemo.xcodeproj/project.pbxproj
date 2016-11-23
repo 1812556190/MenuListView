@@ -55,7 +55,7 @@
 				186A500B1DE2B91600EBE17E /* MenuListView.h */,
 				186A500C1DE2B91600EBE17E /* MenuListView.m */,
 			);
-			name = MenuListView;
+			path = MenuListView;
 			sourceTree = "<group>";
 		};
 		187795B91DDBFC97003A34F5 = {
